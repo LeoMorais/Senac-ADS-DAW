@@ -1,6 +1,6 @@
 ![N|Solid](https://www.go.senac.br/portal/assets/img/logo-senac.png)
 # Análise e Desenvolvimento de Sistemas
-Disciplina: Desenvolvimento de Aplicações Web - 2020/1
+Disciplina: Desenvolvimento de Aplicações Web - 2020/1  
 Professor: Leonardo Pereira 
 
 Este repositorio é destinado aos alunos do curso. 
