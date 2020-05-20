@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link href="estilo.css" rel="stylesheet">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="cadastro.html">Cadastro</a></li>
+			<li><a href="sobre.html">Sobre</a></li>
+		</ul>
+	</nav>
+	<h1>Cadastro</h1>
+	<h2>Por favor insira seu nome e matricula:</h2>
+	<form action="consulta.jsp" method="POST">
+		<label for="fname">Insira seu nome</label><br>
+		<input type="text" id="nome" name="nome" value="nome"><br>
+		<label for="fname2">Insira sua matricula</label><br>
+		<input type="number" id="matricula" name="matricula" value="matricula"><br>
+		<input type="submit" value="Cadastrar">
+	</form>
+</body>
+</html>
