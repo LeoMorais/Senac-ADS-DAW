@@ -12,5 +12,6 @@ Qualquer esclarecimento entrar em contato com o professor ou no portal do aluno.
 * [**Pweb**] - Aula 22/04/2020 - Meu primeiro programa web.
 * [**PDAW**] - Aula 19/05/2020 - Cadastro de alunos com JSP.
 * [**ProjetoCadastroAlunos**] - Aula 02/06/2020 - Cadastro de alunos com JPA.
+* [**biblioteca**] - Aula 09/06/2020 - Projeto Biblioteca - Spring + JPA + PostgreSQL.
 
 
