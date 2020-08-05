@@ -1,4 +1,4 @@
-![N|Solid](https://www.go.senac.br/portal/assets/img/logo-senac.png)
+![N|Solid](https://www.go.senac.br/img/logo.png)
 # Análise e Desenvolvimento de Sistemas
 Disciplina: Desenvolvimento de Aplicações Web - 2020/1  
 Professor: Leonardo Pereira de Morais
